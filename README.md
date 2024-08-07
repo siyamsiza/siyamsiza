@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @siyamsiza
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m @siyamsiza👀 I’m interested in Data Science, Machine Learning, and AI.
 
-<!---
-siyamsiza/siyamsiza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I’m currently learning advanced Python programming and data analysis techniques.
+
+💞️ I’m looking to collaborate on innovative AI projects and data-driven solutions.
+
+📫 How to reach me: [your email or LinkedIn]
+
+⚡ Fun fact: I love discovering insights from data and turning them into actionable solutions!
