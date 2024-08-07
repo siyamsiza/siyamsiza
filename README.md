@@ -4,6 +4,4 @@
 
 💞️ I’m looking to collaborate on innovative AI projects and data-driven solutions.
 
-📫 How to reach me: [your email or LinkedIn]
-
 ⚡ Fun fact: I love discovering insights from data and turning them into actionable solutions!
