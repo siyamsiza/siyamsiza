@@ -1,4 +1,4 @@
-# Aspiring Data Scientist in Finance
+# Aspiring Data Scientist
 
 ## Table of Contents
 1. [Introduction](#introduction)
